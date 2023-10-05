@@ -1,7 +1,0 @@
-
-## Login
-- Token não está expirando
-
-* Remerber-me
-- Se tiver token, entrar
-- Se tiver token e marcar o checkbox, salvar no localStorage
