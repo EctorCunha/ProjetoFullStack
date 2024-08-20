@@ -7,4 +7,4 @@
 - Rodar storybook (frontend) `npm run storybook`.
 - Rodar testes (frontend) ` npm test`.
 - Swagger ("/doc")
-- login para listPage `username: teste1`, `senha: 12345`
+
